@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h6>Ankita 💗 Aadesh</h6>
+      <h3>Ankita <div className="heartbeating-text">💗</div> Aadesh</h3>
       <h2>Good Afternoon CutiePie!!</h2>
     </>
   )

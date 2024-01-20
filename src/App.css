@@ -5,11 +5,30 @@
   text-align: center;
 }
 
+@keyframes heartbeat {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.heartbeating-text {
+  display: inline-block;
+  font-size: 24px; /* Adjust the font size as needed */
+  color: #ff0000; /* Adjust the text color as needed */
+  animation: heartbeat 1.5s infinite; /* Adjust the animation duration as needed */
+  font-family: 'Arial', sans-serif; /* Specify your preferred font family */
+}
+
 .logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
+  width: 100px; /* Adjust the size of your logo */
+  height: auto;
+  animation: heartbeat 1.5s infinite; /* Adjust the animation duration as needed */
 }
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
