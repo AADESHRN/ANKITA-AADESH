@@ -1,8 +1,9 @@
 #root {
-  max-width: 1280px;
+  max-width: 100%;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: white;
 }
 
 @keyframes heartbeat {
@@ -25,18 +26,6 @@
   font-family: 'Arial', sans-serif; /* Specify your preferred font family */
 }
 
-.logo {
-  width: 100px; /* Adjust the size of your logo */
-  height: auto;
-  animation: heartbeat 1.5s infinite; /* Adjust the animation duration as needed */
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
-}
-
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
@@ -44,18 +33,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
-
-.card {
-  padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
 }

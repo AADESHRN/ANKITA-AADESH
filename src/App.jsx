@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h3>Ankita <div className="heartbeating-text">💗</div> Aadesh</h3>
+      <h5>Ankita <div className="heartbeating-text">💗</div> Aadesh</h5>
       <h2>Good Afternoon CutiePie!!</h2>
     </>
   )
