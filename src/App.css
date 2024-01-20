@@ -1,10 +1,8 @@
 #root {
   max-width: 100%;
-  margin: 0 auto;
+  margin: auto auto;
   padding: 2rem;
   text-align: center;
-  background-color: white;
-  color: black;
 }
 
 @keyframes heartbeat {
