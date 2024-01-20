@@ -4,8 +4,8 @@ function App() {
 
   return (
     <>
-      <h1>Ankita <br/>💗<br/> 
-        Aadesh</h1>
+      <h6>Ankita 💗 Aadesh</h6>
+      <h2>Good Afternoon CutiePie!!</h2>
     </>
   )
 }
