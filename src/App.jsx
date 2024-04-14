@@ -4,7 +4,7 @@ import './tailwind.css';
 function App() {
 
   return (
-    <div className=''>
+    <div className='text-left'>
       <h5>Ankita <div className="heartbeating-text">💗</div> Aadesh</h5><br/><br/>
       <p>
       <h4>I'm not very comfortable writing in Hindi or Marathi, so I'm trying to write in English with a bit of Hindi.<br/>
