@@ -7,14 +7,14 @@ function App() {
     <div className=''>
       <h5>Ankita <div className="heartbeating-text">💗</div> Aadesh</h5><br/><br/>
       <p>
-      I'm not very comfortable writing in Hindi or Marathi, so I'm trying to write in English with a bit of Hindi.
-I can write a write a whole book about it about this, but I'll try to keep it short.
+      <h1>I'm not very comfortable writing in Hindi or Marathi, so I'm trying to write in English with a bit of Hindi.
+I can write a whole book about it, but I'll try to keep it short.
 I never imagined I would have to write this, but it's our last hope.
 Please read this not as Ankita's older brother, but as best friend of me & Ankita. 
 I too have a sister so I know that as Ankita's brother, you might not like it at first, but we're in the 21st century, so please read with an open mind. 
 I hope you can understand from my and Ankita's perspective. 
 Writing this with a heavy heart at 2 in the night.
-
+</h1>
 You already know Ankita and I were classmates in 11th and 12th. But I think this is the time, there's much more you should know. 
 I'm not sure if I'll ever have the courage to send you this message, but if I do, know that I'm deeply in love and in fear of losing, and I can't handle it.
 
