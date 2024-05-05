@@ -56,7 +56,7 @@ function App() {
         Madharlele', she is from nagar, Your Nani ji was marathi, she did
         intercase marrige, which didn't go very well in their old age and she
         left the home and never came back. On her recent birthdate you took
-        Mumma & Ankita to different temples around pune.
+        Mumma & Ankita to the temples around pune.
         <br />
         Mummi ki birthdate - 10th March
         <br />
