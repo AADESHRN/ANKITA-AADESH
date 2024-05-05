@@ -3,7 +3,7 @@ import "./tailwind.css";
 
 function App() {
   return (
-    <div>
+    <div className="bg-white">
       <h5>
         Ankita <div className="heartbeating-text">💗</div> Aadesh
       </h5>
