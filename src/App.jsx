@@ -233,7 +233,12 @@ function App() {
             of my company.
           </li>
           <li>
-            I am a diciplined guy who goes to gym 4 days a week, who have a full
+            Asset wise rather than mutual funds, stocks and gold, Our current house costs more than 50 lakhs,
+            The house I am building in Savedi has valuation of almost 80 lakhs.
+            We have 2000 sq ft land in pune, purchased by my father which have valuation of almost 50 lakhs.
+          </li>
+          <li>
+            I am a diciplined guy who goes to gym 5 days a week, who have a full
             time job, who is parallely working on building businesses, who
             basically know what he wants to acheive in life and is commited
             towards his future goals and plans.
