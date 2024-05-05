@@ -9,7 +9,7 @@ function App() {
       </h5>
       <br />
       <br />
-      <p className="text-left py-5 px-1 font-sans">
+      <p className="text-left py-3 font-sans">
         <h2 className="border-y-8">
           I'm not very comfortable writing in Hindi or Marathi, so I'm trying to
           write in English with a bit of Hindi.
