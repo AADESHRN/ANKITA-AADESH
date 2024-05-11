@@ -9,6 +9,8 @@ import FebSal from './assets/images/SalarySlipFeb.jpeg';
 import MarchSal from './assets/images/SalarySlipMarch.jpeg';
 import AprilSal from './assets/images/SalarySlipApril.jpeg';
 
+import CTCAadesh from './assets/PDF/CTCAadesh.pdf';
+
 function App() {
   return (
     <div className="bg-white text-black">
@@ -298,6 +300,15 @@ function App() {
         <div className="p-1 border"><img src={MarchSal} alt="MarchSal.jpeg" width="100%" height="100%"/></div>
         <h4>Salary Slip April</h4>
         <div className="p-1 border"><img src={AprilSal} alt="AprilSal.jpeg" width="100%" height="100%"/></div>
+        <br />
+        <div className="flex justify-items-center">
+          <a href={CTCAadesh} download="CTCAadesh" target='_blank' className="flex justify-items-center">
+            <button class="text-white bg-slate-800">
+              Click here to Download the CTC Document
+            </button>
+          </a>
+        </div>
+        
       </p>
     </div>
   );
