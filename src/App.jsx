@@ -1,5 +1,12 @@
 import "./App.css";
 import "./tailwind.css";
+import KohinkarNews from './assets/images/KohinkarNews.jpeg';
+import GawandeNews from './assets/images/GawandeNews.jpeg';
+import WareNews from './assets/images/WareNews.jpeg';
+import BaseSal from './assets/images/BasicCompensation.jpeg';
+import JanSal from './assets/images/SalarySlipJan.jpeg';
+import FebSal from './assets/images/SalarySlipFeb.jpeg';
+import MarchSal from './assets/images/SalarySlipMarch.jpeg';
 
 function App() {
   return (
@@ -55,7 +62,7 @@ function App() {
         <span className="font-semibold">Mumma -</span> previous name 'Sunita
         Madharlele', she is from nagar, Your Nani ji was marathi, she did
         intercase marrige, which didn't go very well in their old age and she
-        left the home and never came back. On her recent birthdate you took
+        left the home and never came back. On her recent birthday you took
         Mumma & Ankita to the temples around pune.
         <br />
         Mummi ki birthdate - 10th March
@@ -82,7 +89,7 @@ function App() {
         eating panipuri with family. Around padwa.. You went to Suzuki showroom
         for booking new bike access 125 (Which you took home on the day of gudhi
         padwa), Your recent team visit to Goa.. Pics of villa, your team & you
-        enjoying in brown shorts.. I always get updates about All the lovely
+        enjoying in pool and the goan streets.. I always get updates about All the lovely
         moments of the family. <br />
         Bhiyya's Birthdate - 19th March <br />
         <br />
@@ -233,7 +240,7 @@ function App() {
             of my company.
           </li>
           <li>
-            Asset wise rather than mutual funds, stocks and gold, Our current house costs more than 50 lakhs,
+            Asset wise other than mutual funds, stocks and gold, Our current house costs more than 50 lakhs,
             The house I am building in Savedi has valuation of almost 80 lakhs.
             We have 2000 sq ft land in pune, purchased by my father which have valuation of almost 50 lakhs.
           </li>
@@ -268,6 +275,21 @@ function App() {
         Ankita and I can not imagine my future without her. Most of my family
         already know her & like her. And they can support and love her forever
         like their daughter. We can provide her a peaceful home for lifetime.
+        <br />
+        <br />
+        <h3>Educational Acheivements : </h3>
+        <div className="flex  justify-items-start border">
+          <div className="p-1"><img src={KohinkarNews} alt="KohinkarNews.jpeg" width="400" height="500"/></div>
+          <div className="p-1"><img src={GawandeNews} alt="GawandeNews.jpeg" width="400" height="500"/></div>
+          <div className="p-1"><img src={WareNews} alt="WareNews.jpeg" width="400" height="500"/></div>
+        </div>
+        <h3>Career Acheivements : </h3>
+        <div className="flex  justify-items-start border">
+          <div className="p-1"><img src={BaseSal} alt="BaseSal.jpeg" width="600" height="800"/></div>
+          <div className="p-1"><img src={JanSal} alt="JanSal.jpeg" width="600" height="800"/></div>
+          <div className="p-1"><img src={FebSal} alt="FebSal.jpeg" width="600" height="800"/></div>
+          <div className="p-1"><img src={MarchSal} alt="FebSal.jpeg" width="600" height="800"/></div>
+        </div>
       </p>
     </div>
   );
