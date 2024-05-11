@@ -7,6 +7,7 @@ import BaseSal from './assets/images/BasicCompensation.jpeg';
 import JanSal from './assets/images/SalarySlipJan.jpeg';
 import FebSal from './assets/images/SalarySlipFeb.jpeg';
 import MarchSal from './assets/images/SalarySlipMarch.jpeg';
+import AprilSal from './assets/images/SalarySlipApril.jpeg';
 
 function App() {
   return (
@@ -294,7 +295,9 @@ function App() {
         <h4>Salary Slip Feb</h4>
         <div className="p-1 border"><img src={FebSal} alt="FebSal.jpeg" width="100%" height="100%"/></div>
         <h4>Salary Slip March</h4>
-        <div className="p-1 border"><img src={MarchSal} alt="FebSal.jpeg" width="100%" height="100%"/></div>
+        <div className="p-1 border"><img src={MarchSal} alt="MarchSal.jpeg" width="100%" height="100%"/></div>
+        <h4>Salary Slip April</h4>
+        <div className="p-1 border"><img src={AprilSal} alt="AprilSal.jpeg" width="100%" height="100%"/></div>
       </p>
     </div>
   );
