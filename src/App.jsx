@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="bg-white text-black">
       <h5>
-        Kindly read with calm and open mind <div className="heartbeating-text">💗</div>
+        Kindly read with calm and open mind <div className="heartbeating-text">🎈</div>
       </h5>
       <br />
       <br />
