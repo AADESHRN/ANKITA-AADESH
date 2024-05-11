@@ -283,13 +283,18 @@ function App() {
           <div className="p-1"><img src={GawandeNews} alt="GawandeNews.jpeg" width="400" height="500"/></div>
           <div className="p-1"><img src={WareNews} alt="WareNews.jpeg" width="400" height="500"/></div>
         </div>
+        <br />
+        <br />
         <h3>Career Acheivements : </h3>
-        {/* <div className="flex  justify-items-start border"> */}
-          <div className="p-1"><img src={BaseSal} alt="BaseSal.jpeg" width="800" height="900"/></div>
-          <div className="p-1"><img src={JanSal} alt="JanSal.jpeg" width="800" height="900"/></div>
-          <div className="p-1"><img src={FebSal} alt="FebSal.jpeg" width="800" height="900"/></div>
-          <div className="p-1"><img src={MarchSal} alt="FebSal.jpeg" width="800" height="900"/></div>
-        {/* </div> */}
+        <br />
+        <h4>Base Salary Annual - 22,59,259/-</h4>
+        <div className="p-1 border"><img src={BaseSal} alt="BaseSal.jpeg" width="100%" height="100%"/></div>
+        <h4>Salary Slip Jan</h4>
+        <div className="p-1 border"><img src={JanSal} alt="JanSal.jpeg" width="100%" height="100%"/></div>
+        <h4>Salary Slip Feb</h4>
+        <div className="p-1 border"><img src={FebSal} alt="FebSal.jpeg" width="100%" height="100%"/></div>
+        <h4>Salary Slip March</h4>
+        <div className="p-1 border"><img src={MarchSal} alt="FebSal.jpeg" width="100%" height="100%"/></div>
       </p>
     </div>
   );
