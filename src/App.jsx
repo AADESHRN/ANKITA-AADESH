@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="bg-white text-black">
       <h5>
-        Ankita <div className="heartbeating-text">💗</div> Aadesh
+        Kindly read with calm and open mind <div className="heartbeating-text">💗</div>
       </h5>
       <br />
       <br />
