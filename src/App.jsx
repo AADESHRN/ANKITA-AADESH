@@ -9,8 +9,6 @@ import FebSal from './assets/images/SalarySlipFeb.jpeg';
 import MarchSal from './assets/images/SalarySlipMarch.jpeg';
 import AprilSal from './assets/images/SalarySlipApril.jpeg';
 
-import CTCAadesh from './assets/PDF/CTCAadesh.pdf';
-
 function App() {
   return (
     <div className="bg-white text-black">
