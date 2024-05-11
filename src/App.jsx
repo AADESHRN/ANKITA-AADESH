@@ -284,12 +284,12 @@ function App() {
           <div className="p-1"><img src={WareNews} alt="WareNews.jpeg" width="400" height="500"/></div>
         </div>
         <h3>Career Acheivements : </h3>
-        <div className="flex  justify-items-start border">
-          <div className="p-1"><img src={BaseSal} alt="BaseSal.jpeg" width="600" height="800"/></div>
-          <div className="p-1"><img src={JanSal} alt="JanSal.jpeg" width="600" height="800"/></div>
-          <div className="p-1"><img src={FebSal} alt="FebSal.jpeg" width="600" height="800"/></div>
-          <div className="p-1"><img src={MarchSal} alt="FebSal.jpeg" width="600" height="800"/></div>
-        </div>
+        {/* <div className="flex  justify-items-start border"> */}
+          <div className="p-1"><img src={BaseSal} alt="BaseSal.jpeg" width="800" height="900"/></div>
+          <div className="p-1"><img src={JanSal} alt="JanSal.jpeg" width="800" height="900"/></div>
+          <div className="p-1"><img src={FebSal} alt="FebSal.jpeg" width="800" height="900"/></div>
+          <div className="p-1"><img src={MarchSal} alt="FebSal.jpeg" width="800" height="900"/></div>
+        {/* </div> */}
       </p>
     </div>
   );
