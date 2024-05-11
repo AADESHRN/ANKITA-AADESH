@@ -301,13 +301,6 @@ function App() {
         <h4>Salary Slip April</h4>
         <div className="p-1 border"><img src={AprilSal} alt="AprilSal.jpeg" width="100%" height="100%"/></div>
         <br />
-        <div className="flex justify-items-center">
-          <a href={CTCAadesh} download="CTCAadesh" target='_blank' className="flex justify-items-center">
-            <button class="text-white bg-slate-800">
-              Click here to Download the CTC Document
-            </button>
-          </a>
-        </div>
       </p>
     </div>
   );
