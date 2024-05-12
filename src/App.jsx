@@ -42,8 +42,7 @@ function App() {
         You already know Ankita and I were classmates in 11th and 12th. But I
         think this is the time, there's much more you should know.
         <br /> I'm not sure if I'll ever have the courage to send you this
-        message, but if I do, know that I'm deeply in love and in fear of
-        losing, and I can't handle it anymore.
+        message, but if I do, know that it's really serious.
         <br />
         <br /> So, the story goes back to our college days. I liked Ankita then
         (as her brother, this might not sound good to you, but I hope you
