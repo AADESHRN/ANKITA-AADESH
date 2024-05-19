@@ -167,7 +167,7 @@ Also she talks to me about all the Rishtas you getting. I always get updates abo
         out the process to change my cast. Which is technically not possible 🥲<br />
         <br />
         <span className="font-bold">
-          Also FYI Let my intro. I am Aadesh Nirfarake.
+          Also FYI, my intro. I am Aadesh Nirfarake.
         </span>
         <br />
         <br />
@@ -204,6 +204,7 @@ Also she talks to me about all the Rishtas you getting. I always get updates abo
             I started earning a six-figure income at age of 22 and am now around
             25 LPA at age 24.
           </li>
+          <li>And Till now I have done savings of almost 30+ lakhs</li>
           <li>
             As with earnings, finantial knowledge, savings & investments are
             also important. I invest in equities(Mutual funds & stocks) and real
