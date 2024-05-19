@@ -108,6 +108,8 @@ Also she talks to me about all the Rishtas you getting. I always get updates abo
         She taught me what soulmate is - She told me how she and I are
         soulmates, and how she regrets why she didn't found me before, Aman.
         <br />
+She share everything with me always like a family member. By this time I have already got many pics of BUA's re-wedding 😄
+ <br />
         During all this time we spend - we have seen many good and bad things
         togather - we fought with each other multiple times and always came back
         - cared and loved each other But we never met. We have maintained
