@@ -39,10 +39,10 @@ function App() {
         </h2>
         <br />
         <br />
-        You already know Ankita and I were classmates in 11th and 12th. But I
+        You already know Ankita and I were classmates in 11th and 12th. And you also got little idea about everything going on. But I
         think this is the time, there's much more you should know.
         <br /> I'm not sure if I'll ever have the courage to send you this
-        message, but if I do, know that it's really serious.
+        message, because I respect you as a big brother. but if I do, know that it's really serious.
         <br />
         <br /> So, the story goes back to our college days. I liked Ankita then
         (as her brother, this might not sound good to you, but I hope you
@@ -73,7 +73,7 @@ function App() {
         Papa's past struggle - how they came to nagar - How you guys used to
         live in saras nagar - with mama ji - How papa found his way through all
         the ups and downs and set up the business of fruits trading - How he
-        goes to supa and different markets - His off days are on Thursdays and
+        goes to supa and different markets - His usual off days are on Thursdays and
         Saturdays <br />
         Papa's birthdate - 28th Oct <br />
         <br />
@@ -89,17 +89,16 @@ function App() {
         eating panipuri with family. Around padwa.. You went to Suzuki showroom
         for booking new bike access 125 (Which you took home on the day of gudhi
         padwa), Your recent team visit to Goa.. Pics of villa, your team & you
-        enjoying in pool and the goan streets.. I always get updates about All the lovely
+        enjoying in pool and the goan streets.. <br />
+Also she talks to me about all the Rishtas you getting. I always get updates about All the lovely
         moments of the family. <br />
         Bhiyya's Birthdate - 19th March <br />
         <br />
         <span className="font-bold">Ankita -</span> I can never finish writing
         how much I know about her & how much I understand her. She has told me
         everything about herself. What all thing she did after 12th. The
-        Engineering, her intrests hobbies, And also about Aman. How he came &
-        destroyed her life. How you guys went to his family marrige. and many
-        thing which none of us would like to talk about. After the breakup how
-        she felt and how everyone treated her. Every small thing. But forget the
+        Engineering, her intrests hobbies, And also about Aman. That bad phase in her life. How
+        she felt and how everyone treated her around that time. Every small thing. But forget the
         sad part. <br />
         Her tries for the government pwd exam few months back. her Salesforce
         course in pune. Not only this, But all her dresses, all her heels &
@@ -123,31 +122,25 @@ function App() {
         So many things happened, and recently, things got serious. That's why I
         tried to meet you at the wedding. All I wanted was to build a friendship
         with you, but I didn't get much response. Mumma already know everything
-        about me - As she and my bua were classmates. I have introduced Ankita
+        about me - She and my bua were classmates. I have introduced Ankita
         to few of my family members. She knows my chachi very well now and she
-        talks with her frequently on calls & messages. They have discussed about
+        talks with her very frequently on calls & messages. They have discussed about
         our marrige and how we will face blockers and how we have to convince
         everyone. She said that mummy will understand and and she is just scared
         of papa and you. She was also concerned that because of her past and
-        Nani's incident, you guys won't allow her or listen to her anymore. She
-        is also scared that because of her past or your two experiences with
-        girls even you won't support her as friend & brother. <br />
+        Nani's incident, you guys won't allow her or listen to her anymore. <br />But after my family met papa that day, Ankita told me and I am glad that you guys took everything positively. <br />
         <br />
         She has the past trauma from which she is not healed completely and
         scared of her own family. But still, for love she tried to talk to mummy
         multiple times. Mummy's reaction was quite obvious and firstly she
-        talked about the cast issues, then gave examples of failed marriges,
-        they have talked for hours and mummy demotived Ankita & told her that if
-        she told it to papa you guys will get her married in 2 months with
-        anyone. So basically she is in very bad situation where she has to think
-        about samaj, family pressure, and us. <br />
+        talked about the cast issues, then gave examples of failed marriges <br />
         And she doesn't wanna make you guys feel bad. So she will get ready to
         get married to whoever unknown guy you guys will get for her. <br />
         She is basically killing herself & her emotions due to past & due to
         fear of her own family. <br />
         But I think there is only one in your family who is educated and mature
         enough to understand us and it is You Bhaiyya. <br />I know you might
-        feel mixed emotions while reading this—anger, care, shock—but please try
+        feel mixed emotions while reading this, but please try
         to understand & digest everything with calm.
         <br />
         She is your sister after all and you love her and you want the best for
@@ -171,14 +164,10 @@ function App() {
         care, love, who earn good & have good families. And I have all of it
         except one thing that is same cast. It's shouldn't matter in today's age
         but I've heard your family is quite orthodox. So I even tried finding
-        out the process to change my cast. <br />
+        out the process to change my cast. Which is technically not possible 🥲<br />
         <br />
         <span className="font-bold">
-          Also FYI Let me introduce myself. I am Aadesh Nirfarake, I have a home
-          in maliwada (I know it might not sound good because of the rowdy
-          status this place holds but I have always been an exception because
-          Never had any chapri friends and I have always worked hard & acheived
-          my dreams which you would get to know below)
+          Also FYI Let my intro. I am Aadesh Nirfarake.
         </span>
         <br />
         <br />
@@ -213,7 +202,7 @@ function App() {
           </li>
           <li>
             I started earning a six-figure income at age of 22 and am now around
-            24 LPA at age 24.
+            25 LPA at age 24.
           </li>
           <li>
             As with earnings, finantial knowledge, savings & investments are
@@ -222,7 +211,7 @@ function App() {
             spending on bikes and travel.
           </li>
           <li>
-            I have mutual fund portfolio of around 18 lakhs and around 4 lakhs
+            I have mutual fund portfolio of around 20 lakhs and around 4 lakhs
             worth of stocks till now.
           </li>
           <li>
