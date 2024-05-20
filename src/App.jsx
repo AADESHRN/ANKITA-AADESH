@@ -290,6 +290,9 @@ She share everything with me always like a family member. By this time I have al
         <h4>Salary Slip April</h4>
         <div className="p-1 border"><img src={AprilSal} alt="AprilSal.jpeg" width="100%" height="100%"/></div>
         <br />
+<button className="btn-primary">
+  <a href="https://pdf.ac/Au345">Click here to download CTC document</a>
+</button>
       </p>
     </div>
   );
