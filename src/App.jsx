@@ -112,7 +112,7 @@ function App() {
         Her tries for the government pwd exam few months back. her Salesforce
         course in pune. Not only this, But all her dresses, all her heels &
         chappals, make up items, & all her favourite things, She has sent me soo
-        many pictures of her that I have more pics of her than my own in my
+        many pictures of herself that I have more pics of her than my own in my
         phone gallary now 😄 <br />
         She taught me what soulmate is - She told me how she and I are
         soulmates, and how she regrets why she didn't found me before, Aman.
