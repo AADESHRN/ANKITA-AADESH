@@ -311,7 +311,7 @@ function App() {
         with clear goals. I have only loved one girl in my whole life i.e.
         Ankita and I can not imagine my future without her. <br />
         Most of my family already know her & like her. I can support her in
-        career & my family can support and love her forever like their own
+        career & my family can support, protect and love her forever like their own
         daughter. And We can provide her a peaceful home for lifetime.
         <br />
         <br />
