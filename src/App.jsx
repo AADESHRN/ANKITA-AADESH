@@ -29,7 +29,7 @@ function App() {
           I'm not very comfortable writing in Hindi or Marathi, so I'm trying to
           write in English with a bit of Hindi.
           <br />
-          I can write a whole book about it, but I'll try to keep it short.
+          I can write a whole book about it, but I'll try to keep it short. ✨
           <br />I never imagined I would have to write this, but it's our last
           hope.
           <br />
@@ -41,17 +41,17 @@ function App() {
           <br />I hope you can understand from my and Ankita's perspective.
           <br />
           <span className="font-semibold">
-            Writing this with a heavy heart at 2 in the night.
+            Writing this with a heavy heart at 2 in the night. 🥹
           </span>
         </h2>
         <br />
         <br />
         You already know Ankita and I were classmates in 11th and 12th. And you
         also got little idea about everything going on. But I think this is the
-        time, there's much more you should know.
+        time, there's much more you should know. 💯
         <br /> I'm not sure if I'll ever have the courage to send you this
         message, because I respect you as a big brother. but if I do, know that
-        it's really serious.
+        it's really serious.🤞🏻
         <br />
         <br /> So, the story goes back to our college days. I liked Ankita then
         (as her brother, this might not sound good to you, but I hope you
@@ -66,7 +66,7 @@ function App() {
         talking day and night for over 1.5+ years now everywhere on calls,
         whatsapp, insta, telegram, sms. We know everything about each other's
         lives, including each others families. I know everything about your
-        family members <br />
+        family members 😊<br />
         <br />
         <span className="font-semibold">Mumma -</span> previous name 'Sunita
         Madharlele', she is from nagar, Your Nani ji was marathi, she did
@@ -74,7 +74,7 @@ function App() {
         left the home and never came back. On her recent birthday you took Mumma
         & Ankita to the temples around pune.
         <br />
-        Mummi ki birthdate - 10th March
+        Mummi ki birthdate - 10th March ✨
         <br />
         <br />
         <span className="font-semibold">Papa -</span> Rajkumar Choukse - from MP
@@ -84,7 +84,7 @@ function App() {
         the ups and downs and set up the business of fruits trading - How he
         goes to supa and different markets - His usual off days are on Thursdays
         and Saturdays <br />
-        Papa's birthdate - 28th Oct <br />
+        Papa's birthdate - 28th Oct ✨<br />
         <br />
         <span className="font-semibold">Saurabh Bhiyya (You) -</span> Ankita &
         Me both are really proud of you, How you have acheived your career
@@ -101,7 +101,7 @@ function App() {
         enjoying in pool and the goan streets.. <br />
         Also she talks to me about all the Rishtas you getting. I always get
         updates about All the lovely moments of the family. <br />
-        Bhiyya's Birthdate - 19th March <br />
+        Bhiyya's Birthdate - 19th March ✨<br />
         <br />
         <span className="font-bold">Ankita -</span> I can never finish writing
         how much I know about her & how much I understand her. She has told me
@@ -300,19 +300,19 @@ function App() {
         <br />
         In everyones life, Marrige is a one time thing. And in long term
         Cast/Kundali doesn't matter. <br />Saurabh Bhiyya I beg you to please
-        understand us. And take time to think and discuss openly. If you want to talk to me or meet
-        me, hit me up, I would love to meet you.
+        understand us 🥺. And take time to think and discuss openly. If you want to talk to me or meet
+        me, hit me up, I would love to meet you. 🤞🏻
         <br />
         Be it cast, kundali or anything else. Every question has answer & Every
-        problem has solution. All we need to do is take actions for good.
+        problem has solution. All we need to do is take actions for good.💯
         <br />
         <br />
         I'm telling you all this to assure you that I'm a good, disciplined guy
         with clear goals. I have only loved one girl in my whole life i.e.
-        Ankita and I can not imagine my future without her. <br />
+        Ankita ❤️ and I can not imagine my future without her. <br />
         Most of my family already know her & like her. I can support her in
         career & my family can support, protect and love her forever like their own
-        daughter. And We can provide her a peaceful home for lifetime.
+        daughter. And We can provide her a peaceful home for lifetime. ✨
         <br />
         <br />
         <h3>Educational Acheivements : </h3>
@@ -352,38 +352,38 @@ function App() {
         <br />
         <h3>Career Acheivements : </h3>
         <br />
-        <h4>Base Salary Annual - 22,59,259/-</h4>
+        <h4>⭐ Base Salary Annual - 22,59,259/-</h4>
         <div className="p-1 border">
           <img src={BaseSal} alt="BaseSal.jpeg" width="100%" height="100%" />
         </div>
-        <h4>Salary Slip Jan</h4>
+        <h4>⭐ Salary Slip Jan</h4>
         <div className="p-1 border">
           <img src={JanSal} alt="JanSal.jpeg" width="100%" height="100%" />
         </div>
-        <h4>Salary Slip Feb</h4>
+        <h4>⭐ Salary Slip Feb</h4>
         <div className="p-1 border">
           <img src={FebSal} alt="FebSal.jpeg" width="100%" height="100%" />
         </div>
-        <h4>Salary Slip March</h4>
+        <h4>⭐ Salary Slip March</h4>
         <div className="p-1 border">
           <img src={MarchSal} alt="MarchSal.jpeg" width="100%" height="100%" />
         </div>
-        <h4>Salary Slip April</h4>
+        <h4>⭐ Salary Slip April</h4>
         <div className="p-1 border">
           <img src={AprilSal} alt="AprilSal.jpeg" width="100%" height="100%" />
         </div>
-        <h4>Salary Slip May</h4>
+        <h4>⭐ Salary Slip May</h4>
         <div className="p-1 border">
           <img src={MaySal} alt="May.jpeg" width="100%" height="100%" />
         </div>
-        <h4>CTC</h4>
+        <h4>⭐ CTC</h4>
         <div className="p-1 border">
           <img src={CTC} alt="CTC.jpeg" width="100%" height="100%" />
         </div>
         <br />
         <button className="btn-primary">
           <a href="https://drive.google.com/file/d/15_r79vkivgBXOn6PUmR5FQOgmp0V_iz1/view?usp=drivesdk">
-            Click here to download CTC document
+            ⭐ Click here to download CTC document ⭐
           </a>
         </button>
       </p>
