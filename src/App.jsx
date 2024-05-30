@@ -200,7 +200,7 @@ function App() {
         <br />
         <span className="font-bold">
           By this time you might already know many things about me, As Ankita
-          told me ki Bhiyya bahar se aapki info nikalne wale hai :) But just an
+          told me ki Bhiyya bahar se aapki info nikalne wale hai 😄 And Ankita ne 3-4 din pehle mere awards vagaira aapko bheje hi hai 😅 But just an
           FYI, my intro. I am Aadesh Nirfarake.
         </span>
         <br />
