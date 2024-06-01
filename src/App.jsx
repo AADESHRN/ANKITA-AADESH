@@ -25,14 +25,14 @@ function App() {
       <p className="text-left py-3 font-sans text-xl">
         <h2 className="border-y-8">
           I know it doesn't look good to ask for something multiple times. But
-          here, its matter of lives. So please read till end.
+          here, its matter of lives. So please read till end.🙏🏻
           <br />
           I'm not very comfortable writing in Hindi or Marathi, so I'm trying to
           write in English with a bit of Hindi.
           <br />
           I can write a whole book about it, but I'll try to keep it short. ✨
           <br />I never imagined I would have to write this, but it's our last
-          hope.
+          hope.😞
           <br />
           Please read this not as Ankita's older brother, but as best friend of
           me & Ankita.
@@ -42,7 +42,7 @@ function App() {
           <br />I hope you can understand from my and Ankita's perspective.
           <br />
           <span className="font-semibold">
-            Writing this with a heavy heart at 2 in the night. 🥹
+            Writing this with a heavy heart at 2 in the night. 🥺
           </span>
         </h2>
         <br />
@@ -69,7 +69,7 @@ function App() {
         Systems as a Software Engineer in August 2020. As I started using social
         media, I reconnected with Ankita. We started talking again, shared
         numbers, and I even started using Snapchat because of her. We've been
-        talking day and night for over 1.5+ years now everywhere on calls,
+        talking day and night for almost 1.5 to 2 years now everywhere on calls,
         whatsapp, insta, telegram, sms. We know everything about each other's
         lives, including each others families. I know everything about your
         family members 😊
@@ -173,7 +173,7 @@ function App() {
         She is your sister after all and you love her and you want the best for
         her. <br />
         I know mummy & papa listens to Bua ji more and they will marry Ankita
-        off to a stranger guy in a year whose past & future you will have no
+        off to a stranger guy 🥺 in a year whose past & future you will have no
         clue about and whose only plus point will be he is of same cast, and
         even Ankita will get ready to sacrifice her happiness for your family's
         sake.
@@ -183,7 +183,7 @@ function App() {
         <br />
         Me and Ankita understand each other so well. We have spent so much time
         togather, made the future plans togather. If in india we always wanted
-        to live in pune nearby bhiyya (You & mummy, papa) so that she/we can
+        to live in pune nearby bhiyya (You & mummy, papa) so that we both can
         visit you/mummy/papa quite often.
         <br />I have changed myself for her. Worked hard for my last promotion
         just to increase probability to convince your family, Building one more
@@ -208,7 +208,7 @@ function App() {
         multiple examples in world with successful marriges without matching
         cast/kundali and multiple examples of failed marriges even after
         matching all the things. <br />
-        At the end all which matters is the person and his family.
+        At the end all which matters is the person and his family.❤️
         <br />
         <br />
         <span className="font-bold">
@@ -222,7 +222,7 @@ function App() {
         <ul className="list-disc ml-5 hover:list-roman font-bold">
           <li>
             I was schooleed in Bhausaheb Firodiya Highschool till 10th (85% in
-            10th)
+            10th) 🧑🏻‍🏫
           </li>
           <li>
             Then for 12th I went to MM Ware just because I could skip attending
@@ -231,52 +231,52 @@ function App() {
           <li>
             In 12th I came first in that college and also in my classes(If you
             know Gawande classes) in both boards & CET - There were news and
-            banners all over the city for my achievements
+            banners all over the city for my achievements 💫
           </li>
           <li>
             Later I went to MIT College of Engineering, Kothrud, Pune - One of
             the top colleges in maharashtra for Computer Engineering. I did my
             batcholers sincerely and finished it with very good score and
-            multiple job offers in hand in last year.
+            multiple job offers in hand in last year. 🧑🏻‍💻
           </li>
           <li>I joined persistent Systems in august 2020.</li>
           <li>
             Did my first switch in 2022 June, where I joied the citi group - one
-            of the largest investment & corporate bank in USA
+            of the largest investment & corporate bank in USA 🏦
           </li>
           <li>
             There as well within just one year I got promoted to senior role due
-            to my performance.
+            to my performance. ❤️
           </li>
           <li>
             I started earning a six-figure income at age of 22 and am now around
-            25 LPA at age 24. And in next 1-2 years with one switch/promotion I
+            25 LPA at age 24. And in next 2 years with one switch/promotion I
             would definately reach 35-40 LPA.
           </li>
-          <li>And Till now I have done savings of almost 30+ lakhs</li>
+          <li>And Till now I have done savings of almost 30+ lakhs 👍🏻</li>
           <li>
             As with earnings, finantial knowledge, savings & investments are
-            also important. I invest in equities(Mutual funds & stocks) and real
+            also important 💯. I invest in equities(Mutual funds & stocks) and real
             estate(I am building a house in savedi on my fathers land) and enjoy
             spending on bikes and travel.
           </li>
           <li>
             I have mutual fund portfolio of around 21 lakhs and around 4 lakhs
-            worth of stocks till now.
+            worth of stocks till now.💹
           </li>
           <li>
             And a Monthly SIP of 50k+ which I am targetting to make 1 lakh+ per
-            month before I celebrate my 25th birthday.
+            month before I celebrate my 25th birthday. ✅
           </li>
           <li>
-            Other than this I only like to spend money on Bike (I have yezdi
+            Other than this I only like to spend money on Bike 🏍️ (I have yezdi
             scrambler which was around 3 lakhs with accessories) & Travel (Have
             travelled many parts of india)
           </li>
           <li>
             In next 3-4 years I'll be getting opportunity to relocate to USA(Our
             New York Headquarters)/Canada/Europe for few years because of our
-            crossborder program of my company.
+            crossborder program of my company. 🗾
           </li>
           <li>
             Asset wise other than mutual funds, stocks and gold, Our current
@@ -288,7 +288,7 @@ function App() {
             I am a very diciplined guy who goes to gym 5 days a week, who have a
             nice full time job, who is parallely working on building businesses,
             who basically know what he wants to acheive in life and is commited
-            towards his future goals and plans.
+            towards his future goals and plans.✅
           </li>
           <li>
             I have little interest in content creation so I occasionaly create
@@ -313,11 +313,11 @@ function App() {
         <br />
         <br />
         In everyones life, Marrige is a one time thing. And in long term
-        Cast/Kundali doesn't matter. <br />
+        Cast/Kundali doesn't matter.<br />
         Saurabh Bhiyya I beg you to please understand us 🥺🙏🏻. Talk to Ankita
         freely as a friend. Take time to think and discuss openly. If you have
         problem of kundali matching, Ankita ne jo Puja vagaira bataye wo sab kar
-        lenge.
+        lenge. ✨
         <br />
         {/* She was telling me yesterday, Papa bol rhe the log kya bolenge, bhiyya ki bhi shadi karni hai.
         <br />
@@ -347,7 +347,7 @@ function App() {
         <br />
         <br />
         Please take this positively. Please talk to Papa. Please let me know if
-        you & papa want to meet me & my family. Understand me & my family.
+        you & papa want to meet me & my family. Understand me & my family.🙏🏻🥺
         <br />
         <br />
         <br />
