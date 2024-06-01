@@ -37,7 +37,7 @@ function App() {
           Please read this not as Ankita's older brother, but as best friend of
           me & Ankita.
           <br />I too have a sister so I know that as Ankita's brother, you
-          might into awkwardness and don't like it at first, but we're in the
+          might get into awkwardness and don't like it at first, but we're in the
           21st century, so please read with an open mind.
           <br />I hope you can understand from my and Ankita's perspective.
           <br />
