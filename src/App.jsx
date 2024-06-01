@@ -47,12 +47,17 @@ function App() {
         </h2>
         <br />
         <br />
+        <hr className="border-1 border-black" />
+        <br />
         You already know Ankita and I were classmates in 11th and 12th. And you
         also have got little idea about everything going on. But I think this is the
         time, there's much more you should know. 💯
         <br /> I'm not sure if I'll ever have the courage to send you this
         message, because I respect you as a big brother. but if I do, know that
         it's really serious.🤞🏻
+        <br />
+        <br />
+        <hr className="border-1 border-black" />
         <br />
         <br /> So, the story goes back to our college days. I liked Ankita then
         (as her brother, this might not sound good to you, but I hope you
@@ -133,6 +138,8 @@ function App() {
         never met outside anywhere till now. And neither of us have forced
         anything on each other ever. <br />
         <br />
+        <hr className="border-1 border-black" />
+        <br />
         So many things happened, and recently, things got serious. That's why I
         tried to meet you at the wedding. All I wanted was to build a friendship
         with you, but I didn't get much response from you. Mumma already know
@@ -146,6 +153,8 @@ function App() {
         her anymore. <br />
         But after my family met papa that day, Ankita told me and I am glad to
         hear that you guys took everything positively. <br />
+        <br />
+        <hr className="border-1 border-black" />
         <br />
         She has the past trauma from which she is not healed completely and
         scared of her own family. But still, for love she tried to talk to mummy
@@ -169,6 +178,8 @@ function App() {
         even Ankita will get ready to sacrifice her happiness for your family's
         sake.
         <br />
+        <br />
+        <hr className="border-1 border-black" />
         <br />
         Me and Ankita understand each other so well. We have spent so much time
         togather, made the future plans togather. If in india we always wanted
