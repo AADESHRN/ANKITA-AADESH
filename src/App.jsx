@@ -172,7 +172,7 @@ function App() {
         She is your sister after all and you love her and you want the best for
         her. <br />
         I know mummy & papa listens to Bua ji more and they will marry Ankita
-        off to a stranger guy 🥺 in a year whose past & future you will have no
+        off to a stranger guy 🥺 in a next few months whose past & future you will have no
         clue about and whose only plus point will be he is of same cast, and
         even Ankita will get ready to sacrifice her happiness for your family's
         sake.
