@@ -15,7 +15,7 @@ import Relocation from "./assets/images/Relocation.jpeg";
 
 function App() {
   return (
-    <div className="bg-white text-black border-2 border-black p-3">
+    <div className="bg-white text-black border-2 border-black p-3 py-8">
       <h5>
         Kindly read with calm and open mind{" "}
         <div className="heartbeating-text">🎈</div>
