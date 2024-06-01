@@ -15,7 +15,7 @@ import Relocation from "./assets/images/Relocation.jpeg";
 
 function App() {
   return (
-    <div className="bg-white text-black">
+    <div className="bg-white text-black border-2 border-black p-3">
       <h5>
         Kindly read with calm and open mind{" "}
         <div className="heartbeating-text">🎈</div>
@@ -37,8 +37,8 @@ function App() {
           Please read this not as Ankita's older brother, but as best friend of
           me & Ankita.
           <br />I too have a sister so I know that as Ankita's brother, you
-          might into awkwardness and don't like it at first, but we're in the 21st century, so please
-          read with an open mind.
+          might into awkwardness and don't like it at first, but we're in the
+          21st century, so please read with an open mind.
           <br />I hope you can understand from my and Ankita's perspective.
           <br />
           <span className="font-semibold">
@@ -67,7 +67,8 @@ function App() {
         talking day and night for over 1.5+ years now everywhere on calls,
         whatsapp, insta, telegram, sms. We know everything about each other's
         lives, including each others families. I know everything about your
-        family members 😊<br />
+        family members 😊
+        <br />
         <br />
         <span className="font-semibold">Mumma -</span> previous name 'Sunita
         Madharlele', she is from nagar, Your Nani ji was marathi, she did
@@ -134,15 +135,15 @@ function App() {
         <br />
         So many things happened, and recently, things got serious. That's why I
         tried to meet you at the wedding. All I wanted was to build a friendship
-        with you, but I didn't get much response from you. Mumma already know everything
-        about me - She and my bua were classmates. I have introduced Ankita to
-        all of my family members. She knows my chachi very well now and she
-        talks with her very frequently on calls & messages. They have discussed
-        about our marrige and how we will face blockers and how we have to
-        convince everyone. She said that mummy will understand and and she is
-        just scared of papa and you. She was also concerned that because of her
-        past and Nani's incident, you guys won't allow her or listen to her
-        anymore. <br />
+        with you, but I didn't get much response from you. Mumma already know
+        everything about me - She and my bua were classmates. I have introduced
+        Ankita to all of my family members. She knows my chachi very well now
+        and she talks with her very frequently on calls & messages. They have
+        discussed about our marrige and how we will face blockers and how we
+        have to convince everyone. She said that mummy will understand and and
+        she is just scared of papa and you. She was also concerned that because
+        of her past and Nani's incident, you guys won't allow her or listen to
+        her anymore. <br />
         But after my family met papa that day, Ankita told me and I am glad to
         hear that you guys took everything positively. <br />
         <br />
@@ -201,12 +202,13 @@ function App() {
         <br />
         <span className="font-bold">
           By this time you might already know many things about me, As Ankita
-          told me ki Bhiyya bahar se aapki info nikalne wale hai 😄 And Ankita ne 3-4 din pehle mere awards vagaira aapko bheje hi hai 😅 But just an
+          told me ki Bhiyya bahar se aapki info nikalne wale hai 😄 And Ankita
+          ne 1 week pehle mere awards vagaira aapko bheje hi hai 😅 But just an
           FYI, my intro. I am Aadesh Nirfarake.
         </span>
         <br />
         <br />
-        <ul className="list-disc ml-5 hover:list-roman">
+        <ul className="list-disc ml-5 hover:list-roman font-bold">
           <li>
             I was schooleed in Bhausaheb Firodiya Highschool till 10th (85% in
             10th)
@@ -237,7 +239,8 @@ function App() {
           </li>
           <li>
             I started earning a six-figure income at age of 22 and am now around
-            25 LPA at age 24. And in next 1-2 years with one switch/promotion I would definately reach 35-40 LPA.
+            25 LPA at age 24. And in next 1-2 years with one switch/promotion I
+            would definately reach 35-40 LPA.
           </li>
           <li>And Till now I have done savings of almost 30+ lakhs</li>
           <li>
@@ -260,16 +263,15 @@ function App() {
             travelled many parts of india)
           </li>
           <li>
-            In next 3-4 years I'll be getting opportunity to relocate to
-            USA/Canada/Europe for few years because of our crossborder program
-            of my company.
+            In next 3-4 years I'll be getting opportunity to relocate to USA(Our
+            New York Headquarters)/Canada/Europe for few years because of our
+            crossborder program of my company.
           </li>
           <li>
             Asset wise other than mutual funds, stocks and gold, Our current
             house costs more than 50 lakhs, The house I am building in Savedi
-            has valuation of almost 80 lakhs. We have 2000 sq ft land in pune
-            (Fursungi), purchased by my father which have valuation of almost 50
-            lakhs.
+            has valuation of almost 80 lakhs. We have 2000 sq ft land in pune,
+            purchased by my father which have valuation of almost 50 lakhs.
           </li>
           <li>
             I am a very diciplined guy who goes to gym 5 days a week, who have a
@@ -300,21 +302,41 @@ function App() {
         <br />
         <br />
         In everyones life, Marrige is a one time thing. And in long term
-        Cast/Kundali doesn't matter. <br />Saurabh Bhiyya I beg you to please
-        understand us 🥺🙏🏻. And take time to think and discuss openly. If you have problem of kundali matching, Ankita ne jo Puja vagaira bataye wo sab kar lenge. 
-<br />Aaj bhi Ankita bta rhi thi 3-4 din se bhot rishto ke call aa rhe papa ko. Bol rhi thi vese kundali jyada match ni ho rhi to naam se kara ke lao. I'll do everything possible and doable. If you want to talk to me or meet
-        me, hit me up, I would love to meet you. 
+        Cast/Kundali doesn't matter. <br />
+        Saurabh Bhiyya I beg you to please understand us 🥺🙏🏻. Talk to Ankita
+        freely as a friend. Take time to think and discuss openly. If you have
+        problem of kundali matching, Ankita ne jo Puja vagaira bataye wo sab kar
+        lenge.
         <br />
+        {/* She was telling me yesterday, Papa bol rhe the log kya bolenge, bhiyya ki bhi shadi karni hai.
+        <br />
+        Aaj bhi Ankita bta rhi thi 3-4 din se bhot rishto ke call aa rhe papa
+        ko. Bol rhi thi vese kundali jyada match ni ho rhi to naam se kara ke
+        lao. I'll do everything possible and doable. If you want to talk to me
+        or meet me, hit me up, I would love to meet you.
+        <br />
+        This is her exact message yesterday when she was telling me what
+        happened when she tried to convince papa : <br /> Kari h papa bole aage ka bhi
+        sochna padta sab ab papa ye bolre the apna vansh ktum hoga teko unka
+        follow karna pdega sab log bolege etne ache ache riste bta re the mama
+        yesa ku kiya phr beech mai bolte bahu bhi Lani h aur o bolege alag samaj
+        mai ladki kesi di phr kundli ka bhi bolte beech beech mai 🥲
+        <br /> */}
         Be it cast, kundali or anything else. Every question has answer & Every
         problem has solution. All we need to do is take actions for good.💯
         <br />
         <br />
-        I'm telling you all this to assure you that I'm a good, disciplined guy
-        with clear goals. I have only loved one girl in my whole life i.e.
+        I've told you all this above to assure you that I'm a good, disciplined
+        guy with clear goals. I have only loved one girl in my whole life i.e.
         Ankita ❤️ and I can not imagine my future without her. <br />
-        Most of my family already know her & like her. I can support her in
-        career & my family can support, protect and love her forever like their own
-        daughter. And We can provide her a peaceful home for lifetime. ✨
+        Most of my family already know her & like her. She knows my whole
+        family. I can support her in career & my family can support, protect and
+        love her forever like their own daughter. And We can provide her a
+        peaceful home for lifetime. ✨
+        <br />
+        <br />
+        Please take this positively. Please talk to Papa. Please let me know if
+        you & papa want to meet me & my family. Understand me & my family.
         <br />
         <br />
         <h3>Educational Acheivements : </h3>
@@ -384,7 +406,12 @@ function App() {
         </div>
         <h4>⭐ Relocation Preferences for company</h4>
         <div className="p-1 border">
-          <img src={Relocation} alt="Relocation.jpeg" width="100%" height="100%" />
+          <img
+            src={Relocation}
+            alt="Relocation.jpeg"
+            width="100%"
+            height="100%"
+          />
         </div>
         <br />
         <button className="btn-primary">
