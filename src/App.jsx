@@ -301,8 +301,9 @@ function App() {
         <br />
         In everyones life, Marrige is a one time thing. And in long term
         Cast/Kundali doesn't matter. <br />Saurabh Bhiyya I beg you to please
-        understand us 🥺🙏🏻. And take time to think and discuss openly. If you have problem of kundali matching, Ankita ne jo Puja vagaira bataye wo sab kar lenge. If you want to talk to me or meet
-        me, hit me up, I would love to meet you. 🤞🏻
+        understand us 🥺🙏🏻. And take time to think and discuss openly. If you have problem of kundali matching, Ankita ne jo Puja vagaira bataye wo sab kar lenge. 
+<br />Aaj bhi Ankita bta rhi thi 3-4 din se bhot rishto ke call aa rhe papa ko. Bol rhi thi vese kundali jyada match ni ho rhi to naam se kara ke lao. I'll do everything possible and doable. If you want to talk to me or meet
+        me, hit me up, I would love to meet you. 
         <br />
         Be it cast, kundali or anything else. Every question has answer & Every
         problem has solution. All we need to do is take actions for good.💯
