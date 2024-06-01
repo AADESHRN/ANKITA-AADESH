@@ -195,7 +195,7 @@ function App() {
         is so much more about our story.
         <br />
         But the point is I wanna marry Ankita, take care of her, travel the
-        world with her & worship her for lifetime. <br />
+        world with her & worship her for the lifetime. <br />
         We are living in 21st century where it's very hard to find people who
         care, love, who earn good & have good family. And I have all of it
         except one thing which was not in my hand that is same cast. I've heard
