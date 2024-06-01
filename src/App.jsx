@@ -11,6 +11,7 @@ import MarchSal from "./assets/images/SalarySlipMarch.jpeg";
 import AprilSal from "./assets/images/SalarySlipApril.jpeg";
 import MaySal from "./assets/images/SalarySlipMay.jpeg";
 import CTC from "./assets/images/CTC.jpeg";
+import Relocation from "./assets/images/Relocation.jpeg";
 
 function App() {
   return (
@@ -36,7 +37,7 @@ function App() {
           Please read this not as Ankita's older brother, but as best friend of
           me & Ankita.
           <br />I too have a sister so I know that as Ankita's brother, you
-          might not like it at first, but we're in the 21st century, so please
+          might into awkwardness and don't like it at first, but we're in the 21st century, so please
           read with an open mind.
           <br />I hope you can understand from my and Ankita's perspective.
           <br />
@@ -379,6 +380,10 @@ function App() {
         <h4>⭐ CTC</h4>
         <div className="p-1 border">
           <img src={CTC} alt="CTC.jpeg" width="100%" height="100%" />
+        </div>
+        <h4>⭐ Relocation Preferences for company</h4>
+        <div className="p-1 border">
+          <img src={Relocation} alt="Relocation.jpeg" width="100%" height="100%" />
         </div>
         <br />
         <button className="btn-primary">
