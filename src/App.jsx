@@ -174,8 +174,7 @@ function App() {
         I know mummy & papa listens to Bua ji more and they will marry Ankita
         off to a stranger guy 🥺 in a next few months whose past & future you will have no
         clue about and whose only plus point will be he is of same cast, and
-        even Ankita will get ready to sacrifice her happiness for your family's
-        sake.
+        even Ankita will get ready to sacrifice her happiness for the sake of family.
         <br />
         <br />
         <hr className="border-1 border-black" />
