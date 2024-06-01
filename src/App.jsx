@@ -339,7 +339,13 @@ function App() {
         you & papa want to meet me & my family. Understand me & my family.
         <br />
         <br />
-        <h3>Educational Acheivements : </h3>
+        <br />
+        <hr className="border-1 border-black" />
+        <br />
+        <h3 className="font-semibold">Educational Acheivements : </h3>
+        <br />
+        <hr className="border-1 border-black" />
+        <br />
         <div className="flex  justify-items-start border">
           <div className="p-1">
             <img
@@ -374,37 +380,62 @@ function App() {
         </div>
         <br />
         <br />
-        <h3>Career Acheivements : </h3>
+        <hr className="border-1 border-black" />
         <br />
-        <h4>⭐ Base Salary Annual - 22,59,259/-</h4>
+        <h3 className="font-semibold">Career Acheivements : </h3>
+        <br />
+        <hr className="border-1 border-black" />
+        <br />
+        <h4 className="font-semibold">⭐ Base Salary Annual - 22,59,259/-</h4>
         <div className="p-1 border">
           <img src={BaseSal} alt="BaseSal.jpeg" width="100%" height="100%" />
         </div>
-        <h4>⭐ Salary Slip Jan</h4>
+        <br />
+        <hr className="border-1 border-black" />
+        <br />
+        <h4 className="font-semibold">⭐ Salary Slip Jan</h4>
         <div className="p-1 border">
           <img src={JanSal} alt="JanSal.jpeg" width="100%" height="100%" />
         </div>
-        <h4>⭐ Salary Slip Feb</h4>
+        <br />
+        <hr className="border-1 border-black" />
+        <br />
+        <h4 className="font-semibold">⭐ Salary Slip Feb</h4>
         <div className="p-1 border">
           <img src={FebSal} alt="FebSal.jpeg" width="100%" height="100%" />
         </div>
-        <h4>⭐ Salary Slip March</h4>
+        <br />
+        <hr className="border-1 border-black" />
+        <br />
+        <h4 className="font-semibold">⭐ Salary Slip March</h4>
         <div className="p-1 border">
           <img src={MarchSal} alt="MarchSal.jpeg" width="100%" height="100%" />
         </div>
-        <h4>⭐ Salary Slip April</h4>
+        <br />
+        <hr className="border-1 border-black" />
+        <br />
+        <h4 className="font-semibold">⭐ Salary Slip April</h4>
         <div className="p-1 border">
           <img src={AprilSal} alt="AprilSal.jpeg" width="100%" height="100%" />
         </div>
-        <h4>⭐ Salary Slip May</h4>
+        <br />
+        <hr className="border-1 border-black" />
+        <br />
+        <h4 className="font-semibold">⭐ Salary Slip May</h4>
         <div className="p-1 border">
           <img src={MaySal} alt="May.jpeg" width="100%" height="100%" />
         </div>
-        <h4>⭐ CTC</h4>
+        <br />
+        <hr className="border-1 border-black" />
+        <br />
+        <h4 className="font-semibold">⭐ CTC</h4>
         <div className="p-1 border">
           <img src={CTC} alt="CTC.jpeg" width="100%" height="100%" />
         </div>
-        <h4>⭐ Relocation Preferences for company</h4>
+        <br />
+        <hr className="border-1 border-black" />
+        <br />
+        <h4 className="font-semibold">⭐ Relocation Preferences for company</h4>
         <div className="p-1 border">
           <img
             src={Relocation}
@@ -413,6 +444,8 @@ function App() {
             height="100%"
           />
         </div>
+        <br />
+        <hr className="border-1 border-black" />
         <br />
         <button className="btn-primary">
           <a href="https://drive.google.com/file/d/15_r79vkivgBXOn6PUmR5FQOgmp0V_iz1/view?usp=drivesdk">
