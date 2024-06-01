@@ -48,7 +48,7 @@ function App() {
         <br />
         <br />
         You already know Ankita and I were classmates in 11th and 12th. And you
-        also got little idea about everything going on. But I think this is the
+        also have got little idea about everything going on. But I think this is the
         time, there's much more you should know. 💯
         <br /> I'm not sure if I'll ever have the courage to send you this
         message, because I respect you as a big brother. but if I do, know that
