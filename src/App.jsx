@@ -177,7 +177,7 @@ function App() {
         clue about and whose only plus point will be he is of same cast, and
         even Ankita will get ready to sacrifice her happiness for your family's
         sake.
-        <br />
+        <br />                                                                                                                              
         <br />
         <hr className="border-1 border-black" />
         <br />
